@@ -18,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
