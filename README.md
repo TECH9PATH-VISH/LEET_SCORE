@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0027-remove-element](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0027-remove-element) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1528-shuffle-string) |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2485-find-the-pivot-integer](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/2485-find-the-pivot-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
