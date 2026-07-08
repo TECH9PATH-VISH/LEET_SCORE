@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0009-palindrome-number) |
 | [0263-ugly-number](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0263-ugly-number) |
+| [0728-self-dividing-numbers](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0728-self-dividing-numbers) |
 | [1512-number-of-good-pairs](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2485-find-the-pivot-integer](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/2485-find-the-pivot-integer) |
