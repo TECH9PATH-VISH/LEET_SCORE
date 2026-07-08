@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2485-find-the-pivot-integer](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/2485-find-the-pivot-integer) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Hash Table
 |  |
 | ------- |
