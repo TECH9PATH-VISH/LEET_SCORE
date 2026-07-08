@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0027-remove-element) |
 | [0485-max-consecutive-ones](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1470-shuffle-the-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0027-remove-element) |
 ## Simulation
 |  |
