@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [3536-maximum-product-of-two-digits](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3536-maximum-product-of-two-digits) |
 ## Math
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2485-find-the-pivot-integer](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/2485-find-the-pivot-integer) |
+| [3536-maximum-product-of-two-digits](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Hash Table
 |  |
