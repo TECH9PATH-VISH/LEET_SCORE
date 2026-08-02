@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0027-remove-element) |
 | [0485-max-consecutive-ones](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0485-max-consecutive-ones) |
+| [0877-stone-game](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0877-stone-game) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1470-shuffle-the-array) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0009-palindrome-number) |
 | [0263-ugly-number](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0263-ugly-number) |
 | [0728-self-dividing-numbers](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0728-self-dividing-numbers) |
+| [0877-stone-game](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0877-stone-game) |
 | [1512-number-of-good-pairs](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -86,4 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
