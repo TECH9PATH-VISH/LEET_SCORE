@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2485-find-the-pivot-integer](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/2485-find-the-pivot-integer) |
 | [3536-maximum-product-of-two-digits](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3908-valid-digit-number](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3908-valid-digit-number) |
 ## Hash Table
 |  |
 | ------- |
