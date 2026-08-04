@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3731-find-missing-elements](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3731-find-missing-elements) |
+| [3909-compare-sums-of-bitonic-parts](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3909-compare-sums-of-bitonic-parts) |
 ## Binary Search
 |  |
 | ------- |
