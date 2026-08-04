@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1534-count-good-triplets](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1534-count-good-triplets) |
 | [1929-concatenation-of-array](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3731-find-missing-elements](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [3536-maximum-product-of-two-digits](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1512-number-of-good-pairs) |
+| [3731-find-missing-elements](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
