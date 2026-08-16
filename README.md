@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0374-guess-number-higher-or-lower](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0374-guess-number-higher-or-lower) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -101,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0877-stone-game) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
