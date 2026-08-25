@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0191-number-of-1-bits](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0191-number-of-1-bits) |
 ## Sorting
 |  |
 | ------- |
@@ -123,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1095-find-in-mountain-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
