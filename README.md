@@ -129,4 +129,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0693-binary-number-with-alternating-bits](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0693-binary-number-with-alternating-bits) |
 <!---LeetCode Topics End-->
