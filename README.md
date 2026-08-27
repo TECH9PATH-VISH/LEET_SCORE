@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0009-palindrome-number) |
 | [0263-ugly-number](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0263-ugly-number) |
 | [0728-self-dividing-numbers](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0728-self-dividing-numbers) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0877-stone-game](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0877-stone-game) |
 | [1512-number-of-good-pairs](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -130,4 +131,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0693-binary-number-with-alternating-bits](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+## Primality Test
+|  |
+| ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 <!---LeetCode Topics End-->
