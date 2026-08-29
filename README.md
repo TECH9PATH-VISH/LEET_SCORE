@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3731-find-missing-elements) |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3909-compare-sums-of-bitonic-parts) |
 | [4020-elevator-requests-i](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/4020-elevator-requests-i) |
+| [4024-nearest-available-drone](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/4024-nearest-available-drone) |
 ## Binary Search
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1534-count-good-triplets) |
+| [4024-nearest-available-drone](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/4024-nearest-available-drone) |
 ## Prefix Sum
 |  |
 | ------- |
