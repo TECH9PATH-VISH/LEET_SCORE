@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1534-count-good-triplets](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1534-count-good-triplets) |
 | [1929-concatenation-of-array](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/2540-minimum-common-value) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -142,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+## Greedy
+|  |
+| ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 <!---LeetCode Topics End-->
