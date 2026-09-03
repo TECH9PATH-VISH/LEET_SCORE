@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0027-remove-element) |
 | [0485-max-consecutive-ones](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0485-max-consecutive-ones) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0877-stone-game](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0877-stone-game) |
 | [1095-find-in-mountain-array](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1095-find-in-mountain-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
