@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0867-transpose-matrix](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0877-stone-game) |
 | [0922-sort-array-by-parity-ii](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0922-sort-array-by-parity-ii) |
 | [1095-find-in-mountain-array](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1095-find-in-mountain-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1929-concatenation-of-array) |
 | [4020-elevator-requests-i](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/4020-elevator-requests-i) |
 ## Number Theory
@@ -157,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/2091-removing-minimum-and-maximum-from-array) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
