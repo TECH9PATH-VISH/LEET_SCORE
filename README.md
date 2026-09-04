@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1528-shuffle-string) |
 | [1534-count-good-triplets](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1534-count-good-triplets) |
+| [1572-matrix-diagonal-sum](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1572-matrix-diagonal-sum) |
 | [1929-concatenation-of-array](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -163,4 +164,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0867-transpose-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
