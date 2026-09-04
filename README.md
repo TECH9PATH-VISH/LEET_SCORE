@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1470-shuffle-the-array) |
+| [1480-running-sum-of-1d-array](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1528-shuffle-string) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1480-running-sum-of-1d-array) |
 | [2485-find-the-pivot-integer](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/2485-find-the-pivot-integer) |
 ## Two Pointers
 |  |
