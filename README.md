@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/2540-minimum-common-value) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3731-find-missing-elements) |
+| [3903-smallest-stable-index-i](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3904-smallest-stable-index-ii) |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3909-compare-sums-of-bitonic-parts) |
 | [4020-elevator-requests-i](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/4020-elevator-requests-i) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1480-running-sum-of-1d-array) |
 | [2485-find-the-pivot-integer](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/2485-find-the-pivot-integer) |
+| [3903-smallest-stable-index-i](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
 |  |
