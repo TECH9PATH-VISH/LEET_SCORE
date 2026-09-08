@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2119-a-number-after-a-double-reversal](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/2119-a-number-after-a-double-reversal) |
 | [2485-find-the-pivot-integer](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/2485-find-the-pivot-integer) |
 | [3024-type-of-triangle](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3024-type-of-triangle) |
 | [3536-maximum-product-of-two-digits](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3536-maximum-product-of-two-digits) |
