@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/2540-minimum-common-value) |
+| [3024-type-of-triangle](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3024-type-of-triangle) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3731-find-missing-elements) |
 | [3903-smallest-stable-index-i](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3903-smallest-stable-index-i) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [3024-type-of-triangle](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3024-type-of-triangle) |
 | [3536-maximum-product-of-two-digits](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3731-find-missing-elements) |
 ## Math
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2485-find-the-pivot-integer](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/2485-find-the-pivot-integer) |
+| [3024-type-of-triangle](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3024-type-of-triangle) |
 | [3536-maximum-product-of-two-digits](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -172,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0867-transpose-matrix](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1572-matrix-diagonal-sum) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
