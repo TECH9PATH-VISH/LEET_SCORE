@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/2540-minimum-common-value) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2951-find-the-peaks](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/2951-find-the-peaks) |
 | [3024-type-of-triangle](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3024-type-of-triangle) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1534-count-good-triplets) |
+| [2951-find-the-peaks](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/2951-find-the-peaks) |
 | [4024-nearest-available-drone](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/4024-nearest-available-drone) |
 ## Prefix Sum
 |  |
