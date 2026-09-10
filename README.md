@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/2540-minimum-common-value) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3024-type-of-triangle](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3024-type-of-triangle) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3718-smallest-missing-multiple-of-k) |
