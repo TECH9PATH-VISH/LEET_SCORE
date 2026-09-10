@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0027-remove-element) |
+| [0136-single-number](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0136-single-number) |
 | [0485-max-consecutive-ones](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0693-binary-number-with-alternating-bits](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0693-binary-number-with-alternating-bits) |
