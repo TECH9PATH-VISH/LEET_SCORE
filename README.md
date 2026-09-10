@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/2540-minimum-common-value) |
 | [3024-type-of-triangle](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3024-type-of-triangle) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3731-find-missing-elements) |
 | [3903-smallest-stable-index-i](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3903-smallest-stable-index-i) |
