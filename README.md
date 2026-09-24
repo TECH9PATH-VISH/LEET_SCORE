@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3024-type-of-triangle) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3731-find-missing-elements) |
 | [3903-smallest-stable-index-i](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3903-smallest-stable-index-i) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2485-find-the-pivot-integer](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/2485-find-the-pivot-integer) |
 | [3024-type-of-triangle](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3024-type-of-triangle) |
 | [3536-maximum-product-of-two-digits](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3870-count-commas-in-range) |
