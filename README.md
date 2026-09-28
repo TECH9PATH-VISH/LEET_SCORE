@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1528-shuffle-string](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1528-shuffle-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3498-reverse-degree-of-a-string) |
 ## Enumeration
 |  |
@@ -201,4 +202,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1015-smallest-integer-divisible-by-k](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1015-smallest-integer-divisible-by-k) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
