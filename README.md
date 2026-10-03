@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1528-shuffle-string](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1528-shuffle-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [3174-clear-digits](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3498-reverse-degree-of-a-string) |
 ## Enumeration
 |  |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1929-concatenation-of-array) |
+| [3174-clear-digits](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3498-reverse-degree-of-a-string) |
 | [4020-elevator-requests-i](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/4020-elevator-requests-i) |
 ## Number Theory
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [3174-clear-digits](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3174-clear-digits) |
 ## Bracket Sequences
 |  |
 | ------- |
