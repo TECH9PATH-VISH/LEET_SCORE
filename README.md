@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0020-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1528-shuffle-string](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1528-shuffle-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Matrix
 |  |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0020-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/2390-removing-stars-from-a-string) |
@@ -226,5 +229,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
