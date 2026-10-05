@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1528-shuffle-string) |
 | [1534-count-good-triplets](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1534-count-good-triplets) |
 | [1572-matrix-diagonal-sum](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1572-matrix-diagonal-sum) |
+| [1598-crawler-log-folder](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1598-crawler-log-folder) |
 | [1929-concatenation-of-array](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1528-shuffle-string](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1528-shuffle-string) |
+| [1598-crawler-log-folder](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3174-clear-digits) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1598-crawler-log-folder](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3174-clear-digits) |
