@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0136-single-number) |
 | [0485-max-consecutive-ones](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0540-single-element-in-a-sorted-array) |
+| [0682-baseball-game](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0682-baseball-game) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0867-transpose-matrix) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1929-concatenation-of-array) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0232-implement-queue-using-stacks) |
+| [0682-baseball-game](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
