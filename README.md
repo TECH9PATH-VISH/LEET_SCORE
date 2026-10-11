@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/2540-minimum-common-value) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2951-find-the-peaks](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/2951-find-the-peaks) |
 | [3024-type-of-triangle](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3024-type-of-triangle) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1534-count-good-triplets) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/2951-find-the-peaks) |
 | [4024-nearest-available-drone](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/4024-nearest-available-drone) |
 ## Prefix Sum
