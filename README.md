@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1528-shuffle-string) |
 | [1598-crawler-log-folder](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1768-merge-strings-alternately](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1768-merge-strings-alternately) |
 | [2390-removing-stars-from-a-string](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/3498-reverse-degree-of-a-string) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0027-remove-element) |
 | [0844-backspace-string-compare](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0844-backspace-string-compare) |
 | [0922-sort-array-by-parity-ii](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0922-sort-array-by-parity-ii) |
+| [1768-merge-strings-alternately](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1768-merge-strings-alternately) |
 | [2540-minimum-common-value](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/2540-minimum-common-value) |
 ## Simulation
 |  |
