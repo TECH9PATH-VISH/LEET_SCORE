@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0136-single-number) |
 | [0485-max-consecutive-ones](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0682-baseball-game](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0682-baseball-game) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0496-next-greater-element-i) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1512-number-of-good-pairs) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -257,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
