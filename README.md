@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0682-baseball-game) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0232-implement-queue-using-stacks) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Queue
