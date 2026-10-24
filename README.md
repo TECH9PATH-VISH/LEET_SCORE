@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0009-palindrome-number) |
 | [0263-ugly-number](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0263-ugly-number) |
 | [0728-self-dividing-numbers](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0728-self-dividing-numbers) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0234-palindrome-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Monotonic Stack
@@ -282,5 +284,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/TECH9PATH-VISH/LEET_SCORE/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
